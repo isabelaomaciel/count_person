@@ -1,4 +1,4 @@
-# people_count
+# count_person
 
 A new Flutter project.
 
